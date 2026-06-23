@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Pikuniku",
+    "version": "1.0.0",
+    "genre": "adventure idfk",
+    "size": "350 MB",
+    "description": "Pikuniku is a charming, absurdly delightful puzzle-exploration game where you play as a goofy, wobbly-legged creature named Piku. You explore a vibrant, seemingly cheerful world, solve environmental puzzles, kick objects, and spark a fun little revolution against a dystopian corporation",
+    "cover": "https://raw.githubusercontent.com/maseycodey/lumina-backend/main/art/pikuniku-cover.png",
+    "hero": "https://raw.githubusercontent.com/maseycodey/lumina-backend/main/art/pikuniku-banner.png",
+    "install": {
+      "type": "githubRelease",
+      "owner": "MaseyCodey",
+      "repo": "lumina-backend",
+      "tag": "Pikuniku",
+      "assetName": "Pikuniku.zip",
+      "executable": "Pikuniku.exe"
+    }
+  }
+]
