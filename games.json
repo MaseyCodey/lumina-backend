@@ -16,5 +16,24 @@
       "assetName": "Pikuniku.zip",
       "executable": "Pikuniku.exe"
     }
+  },
+   {
+    "id": "2",
+    "title": "Jackbox Party Pack 11",
+    "version": "1.0.0",
+    "genre": "Board-Game ish",
+    "size": "3.5 GB",
+    "description": "The Jackbox Party Pack 11 is a multiplayer party game collection where up to 8 players use their phones or tablets as controllers to play five brand-new games. It features a mix of joke-writing, social deduction, drawing, sound effects, and cooperative trivia..",
+    "cover": "https://raw.githubusercontent.com/MaseyCodey/lumina-backend/main/art/jackbox11-cover.png",
+    "hero": "https://raw.githubusercontent.com/MaseyCodey/lumina-backend/main/art/jackbox11-banner.png",
+    "install": {
+      "type": "githubRelease",
+      "owner": "MaseyCodey",
+      "repo": "lumina-backend",
+      "tag": "2",
+      "assetName": "jackbox11.zip",
+      "executable": "The Jackbox Party Pack 11.exe"
+    }
   }
+]
 ]
