@@ -12,7 +12,7 @@
       "type": "githubRelease",
       "owner": "MaseyCodey",
       "repo": "lumina-backend",
-      "tag": "Pikuniku",
+      "tag": "1",
       "assetName": "Pikuniku.zip",
       "executable": "Pikuniku.exe"
     }
